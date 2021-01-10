@@ -20,7 +20,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/carl\/porcarl2.json#start"
+                 "value":"\/mm\/main.json#startcarlmm"
                 }],
          "type":"tilelayer",
          "visible":true,
